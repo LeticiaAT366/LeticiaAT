@@ -1,5 +1,5 @@
 # LeticiaAT
-Repositório de apresentação do meu perfil profissional
+Repositório de apresentação do meu perfil profissional:
 
 #Leticia Teixeira
 
