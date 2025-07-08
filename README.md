@@ -9,7 +9,8 @@ Repositório de apresentação do meu perfil profissional:
 
 ### Tecnologias que domino
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- Excel, ArcGis
+- Excel
+- ArcGis
 
 ### Experiência Profissional
 - Estágio de graduação na Coordenadoria de Unidades de Conservação, na Secretaria de Meio Ambiente de [Mato Grosso]
